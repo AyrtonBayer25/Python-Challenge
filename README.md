@@ -1,3 +1,3 @@
-# **python-challenge**
+# **Python Challenge**
 
-***Analyze csv files and create functions to return final results of election poll.***
+***Analyze csv files for Pybank and Pypoll. Obkective create functions to return final results of election poll and total revenue per each of the challenges.***
